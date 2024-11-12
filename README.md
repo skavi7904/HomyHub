@@ -1,6 +1,6 @@
 ## HomyHub
 
-**A Naan Mudhalvan Initiative** - House Rent App Using the MERN Stack
+**A Naan Mudhalvan Project** - House Rent App Using the MERN Stack
 
 ## Project Overview
 
