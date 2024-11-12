@@ -4,18 +4,16 @@
 
 ## Project Overview
 
-**HomyHub** is a state-of-the-art real estate application developed under the **Naan Mudhalvan** initiative. This user-centric platform simplifies house renting and purchasing by offering seamless property search, comprehensive listings, and direct communication tools between renters and owners. Make informed real estate decisions with HomyHub's advanced features.
+**HomyHub** platform is tailored to simplify the renting and purchasing of properties by enabling renters and owners to connect seamlessly. With its user-friendly interface, HomyHub offers a variety of features designed to streamline the rental process, ensuring a hassle-free experience for all users.
 
 ## Key Features
 
   - **User Registration & Authentication:** Securely sign up as a renter or owner with robust authentication.
   - **Comprehensive Property Listings:** Explore a rich database of properties featuring high-resolution images, detailed descriptions, and essential amenities.
-  - **Advanced Search & Filtering:** Effortlessly refine your search with filters for location, price range, property type, and more.
-  - **Favorites & Shortlists:** Create personalized lists to easily compare promising properties and manage your search journey.
-  - **Scheduling & Booking:** Schedule appointments or book viewings directly through the platform.
+  - **Advanced Search & Filtering:** Effortlessly refine your search with filters for location, and property type.
+  - **Booking:** Book viewings directly through the platform.
   - **Admin Dashboard:** Manage user accounts, approve/reject listings, and oversee platform activity with a dedicated admin interface.
-  - **Real-Time Notifications:** Stay informed with alerts for new listings, schedule reminders, and owner responses.
-
+  
 ## Technologies Used
 
 ### Frontend:
@@ -76,18 +74,12 @@ With the development server running, enjoy all that HomyHub offers:
   - **Browse Listings:** Discover a wide variety of properties, each featuring detailed information and high-quality images.
   - **Refine Your Search:** Utilize advanced filtering options to find properties that perfectly match your needs.
   - **View Property Details:** Explore detailed property descriptions, amenities, and contact information for direct communication with owners/managers.
-  - **Manage Your Favorites:** Keep track of interesting properties by adding them to your personalized list for easy comparison.
-  - **Book Viewings:** Schedule appointments or book viewings directly within the platform.
-
-## Project Structure
-
-HomyHub adheres to best practices for maintainability, separating the frontend (`client`) and backend (`server`) modules. This structure promotes easy scaling and future enhancements.
+  - **Book Viewings:** Book viewings directly within the platform.
 
 ## Team Details
 
 This project is a testament to the dedicated efforts of the following individuals who participated in the Naan Mudhalvan initiative:
 
   - Team Leader: [Kaviyarasan S](https://github.com/skavi7904)
-  - Team Members: Abidass K, Bharath T, Gowtham P
+  - Team Members: [Abidass K](https://github.com/Abidasskumar), [Bharath T](https://github.com/Bharaththanigaivel), [Gowtham P](https://github.com/gowthamp133)
 
-We are proud to present HomyHub and are committed to its continual improvement. Contributions and feedback are always welcome\!
