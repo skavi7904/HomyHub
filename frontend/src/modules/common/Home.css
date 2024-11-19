@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+.home-body {
+  width: 100%;
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .carousel-item img {
+    height: 40vh;
+    object-fit: cover;
+  }
+}
+
+.nav-link {
+  margin-right: 15px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.nav-link:hover {
+  color: #ffb300;
+}
+
+@media (max-width: 576px) {
+  .text-center {
+    padding: 0 15px;
+  }
+}
