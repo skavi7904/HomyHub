@@ -1,7 +1,3 @@
-## HomyHub
-
-**A Naan Mudhalvan Project** - House Rent App Using the MERN Stack
-
 ## Project Overview
 
 **HomyHub** platform is tailored to simplify the renting and purchasing of properties by enabling renters and owners to connect seamlessly. With its user-friendly interface, HomyHub offers a variety of features designed to streamline the rental process, ensuring a hassle-free experience for all users.
